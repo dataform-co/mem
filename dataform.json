@@ -1,0 +1,7 @@
+{
+  "defaultSchema": "dataform_v2",
+  "assertionSchema": "dataform_assertions_v2",
+  "warehouse": "bigquery",
+  "defaultLocation": "us-central1",
+  "defaultDatabase": "cloud-dataform-testing"
+}
