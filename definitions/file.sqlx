@@ -2,9 +2,9 @@ config {
   "name": "name"
 }
 
-js {
-    const large = Array(900000000)
-    while(true) {}
-}
-SELECT 1
+-- js {
+--   const large = Array(900000000)
+--   while(true) {}
+-- }
 
+SELECT 1
