@@ -1,1 +1,8 @@
-{"dependencies": {"@dataform/core": "2.1.0"}}
+{
+  "name": "eligant",
+  "dependencies": {
+    "a": "https://github.com/microsoft/TypeScript/releases/download/v5.1.6/typescript-5.1.6.tgz",
+    "b": "https://github.com/microsoft/TypeScript/releases/download/v5.1.5/typescript-5.1.5.tgz",
+    "c": "https://github.com/microsoft/TypeScript/releases/download/v5.2-beta/typescript-5.2.0-beta.tgz"
+  }
+}
